@@ -42,7 +42,7 @@ This project is compatible with modern web browsers that support HTML, CSS, and 
 
 ## Credits
 
-This project is created by [Your Name] as a demonstration of Dijkstra's algorithm for finding the minimum distance path in a 2D grid.
+This project is created by **Anurag Goyar** as a demonstration of Dijkstra's algorithm for finding the minimum distance path in a 2D grid.
 
 ---
 
