@@ -45,5 +45,3 @@ This project is compatible with modern web browsers that support HTML, CSS, and 
 This project is created by **Anurag Goyar** as a demonstration of Dijkstra's algorithm for finding the minimum distance path in a 2D grid.
 
 ---
-
-Feel free to modify and expand upon this README template to suit your specific project needs. Provide clear instructions, explain the project features, and include any necessary setup steps or dependencies.
